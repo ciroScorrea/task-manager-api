@@ -15,5 +15,4 @@ app.listen(port, () => {
 })
 //
 // Without middleware: new request -> run route handler
-//
 // With middleware: new request -> do something (functions, i.e.) -> run route handler
